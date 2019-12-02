@@ -2,7 +2,7 @@
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.1	μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος
 urn:cts:greekLit:tlg0012.tlg001.allen:1.1	mh=nin a)/eide qea\ *phlhi+a/dew *a)xilh=os
-urn:cts:greekLit:tlg0012.tlg001.e4:1.1		mh=nin a)/eide qea\ *phlhi+a/dew *a)xilh=os
+urn:cts:greekLit:tlg0012.tlg001.e4:1.1		mh=nin a)/eide qea\ *phlhia/dew *a)xilh=os
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.2	οὐλομένην , ἣ μυρίʼ Ἀχαιοῖς ἄλγεʼ ἔθηκε ,
 urn:cts:greekLit:tlg0012.tlg001.allen:1.2	ou)lome/nhn , h(\ muri/' *a)xaioi=s a)/lge# e)/qhke ,
