@@ -6,7 +6,7 @@ urn:cts:greekLit:tlg0012.tlg001.e4:1.1		mh=nin a)/eide qea\ *phlhia/dew *a)xilh=
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.2	οὐλομένην , ἣ μυρίʼ Ἀχαιοῖς ἄλγεʼ ἔθηκε ,
 urn:cts:greekLit:tlg0012.tlg001.allen:1.2	ou)lome/nhn , h(\ muri/' *a)xaioi=s a)/lge# e)/qhke ,
-urn:cts:greekLit:tlg0012.tlg001.e4:1.2		ou)lome/nhn : h(\ mu+ri/' *a)xaioi=s a)/lge# e)/qhke ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.2		ou)lome/nhn : h(\ mu+ri+/' *a)xaioi=s a)/lge# e)/qhke ,
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.3	πολλὰς δʼ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν
 urn:cts:greekLit:tlg0012.tlg001.allen:1.3	polla\s d' i)fqi/mous yuxa\s *a)/i+di proi/+ayen
