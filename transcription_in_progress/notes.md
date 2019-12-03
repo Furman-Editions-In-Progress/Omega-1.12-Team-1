@@ -14,3 +14,7 @@
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.2436,0.2399,0.04985,0.01901&wID=250&CVT=JPEG) urn:cite2:hmt:e4img.2017a:e4_547@0.2436,0.2399,0.04985,0.01901
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.4 Change comma to colon
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.07986,0.2568,0.1228,0.01852&wID=250&CVT=JPEG) urn:cite2:hmt:e4img.2017a:e4_547@0.07986,0.2568,0.1228,0.01852
+- urn:cts:greekLit:tlg0012.tlg001.e4:1.4 Change grave to an acute
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.1448,0.2560,0.05878,0.01703&wID=250&CVT=JPEG) urn:cite2:hmt:e4img.2017a:e4_547@0.1448,0.2560,0.05878,0.01703
+- urn:cts:greekLit:tlg0012.tlg001.e4:1.4 Change "δὲ" to "δ'"
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.1997,0.2556,0.09053,0.02050&wID=250&CVT=JPEG) urn:cite2:hmt:e4img.2017a:e4_547@0.1997,0.2556,0.09053,0.02050
