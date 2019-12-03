@@ -5,5 +5,6 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.2 Change comma to colon
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.08234,0.2234,0.1672,0.02116&wID=250&CVT=JPEG)urn:cite2:hmt:e4img.2017a:e4_547@0.08234,0.2234,0.1672,0.02116
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.2 Add dieresis to upsilon in "μυρί"
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.1967,0.2217,0.05159,0.02249&wID=250&CVT=JPEG)urn:cite2:hmt:e4img.2017a:e4_547@0.1967,0.2217,0.05159,0.02249
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.2 Add dieresis to iota in "μυρί"
-- 
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.1967,0.2217,0.05159,0.02249&wID=250&CVT=JPEG)urn:cite2:hmt:e4img.2017a:e4_547@0.1967,0.2217,0.05159,0.02249
