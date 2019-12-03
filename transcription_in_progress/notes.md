@@ -12,3 +12,5 @@
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.2946,0.2429,0.04291,0.01571&wID=250&CVT=JPEG)urn:cite2:hmt:e4img.2017a:e4_547@0.2946,0.2429,0.04291,0.01571
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.3 Add diaeresis to upsilon in "ψυχὰς"
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.2436,0.2399,0.04985,0.01901&wID=250&CVT=JPEG) urn:cite2:hmt:e4img.2017a:e4_547@0.2436,0.2399,0.04985,0.01901
+- urn:cts:greekLit:tlg0012.tlg001.e4:1.4 Change comma to colon
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/e4img/2017a/e4_547.tif&RGN=0.07986,0.2568,0.1228,0.01852&wID=250&CVT=JPEG) urn:cite2:hmt:e4img.2017a:e4_547@0.07986,0.2568,0.1228,0.01852
